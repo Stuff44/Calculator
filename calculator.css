@@ -9,7 +9,7 @@
 	border-radius: 10px;
 	position: relative;
 	top: 80px;
-	left: 40px;
+	left: 40%;
 }
 
 /* Display */
@@ -67,11 +67,11 @@
 /* Simulate Button Press */
 .function:active {
 	border-top: black 2px solid;
-	border-bottom: 2px #303030 solid;	
+	border-bottom: 2px #6f6f6f  solid;	
 }
 .operator:active {
 	border-top: black 2px solid;
-	border-bottom: 2px #6f6f6f solid;
+	border-bottom: 2px #303030 solid;
 }
 .number:active {
 	border-top: black 2px solid;
