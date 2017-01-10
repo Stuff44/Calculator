@@ -3,7 +3,7 @@
 
 /* Calculator Box */
 .box {
-	background-color: #e5e7ea;
+	background-color: #03EDFF;
 	height: 300px;
 	width: 250px;
 	border-radius: 10px;
@@ -14,7 +14,7 @@
 
 /* Display */
 .display {
-	background-color: #bfc4ce;
+	background-color: #18D9EF;
 	width: 220px;
 	position: relative;
 	left: 15px;
@@ -28,7 +28,7 @@
 	height: 30px;
 	width: 210px;
 	color: black;
-	background-color: #bccd95;
+	background-color: #13A495;
 	font-size: 21px;
 	text-align: right;
 }
@@ -48,7 +48,7 @@
 }
 .button.function {
 	color: white;
-	background-color: #c64f81;
+	background-color: #12B7B1;
 	border-botttom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
@@ -60,14 +60,14 @@
 }
 .button.number {
 	color: white;
-	background-color: #7091ab;
+	background-color: #00A5A9;
 	border-botttom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
 /* Simulate Button Press */
 .function:active {
 	border-top: black 2px solid;
-	border-bottom: 2px #6f6f6f  solid;	
+	border-bottom: 2px #43D6D9  solid;	
 }
 .operator:active {
 	border-top: black 2px solid;
